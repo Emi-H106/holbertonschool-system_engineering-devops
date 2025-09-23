@@ -1,4 +1,4 @@
-# 📘 README – Distributed Web Infrastructure  
+# Distributed Web Infrastructure  
 
 ## Infrastructure Design  
 
@@ -72,4 +72,4 @@ Each of the two servers contains:
 
 ## Diagram  
 
-![Distributed web infrastructure](image)
+![Distributed web infrastructure](https://private-user-images.githubusercontent.com/190116966/492831648-b121c7af-2e56-4c2b-9232-69e31c94f383.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg2MzI4OTIsIm5iZiI6MTc1ODYzMjU5MiwicGF0aCI6Ii8xOTAxMTY5NjYvNDkyODMxNjQ4LWIxMjFjN2FmLTJlNTYtNGMyYi05MjMyLTY5ZTMxYzk0ZjM4My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyM1QxMzAzMTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mYmMwZDBmNTFjNWIwZjg2YjIwNjgxNTgzMmQ1OTI2ODA0ZTkwZWQ2ZmE3MWI1NzcxNTc5NDE0YjM0MmM3MzBhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.9-L0OpmeURzQwWOVQaYh-LXn4k2GLj3HY2RtAdJ9c18)

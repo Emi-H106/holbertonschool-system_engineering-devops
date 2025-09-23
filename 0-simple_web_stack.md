@@ -72,6 +72,5 @@ The purpose of this task is to understand how different components of a simple i
 
 - **LAMP:** Linux, Apache/Nginx, MySQL, PHP/Python (technology stack)  
 - **SPOF:** Single Point of Failure  
-- **QPS:** Queries Per Second (a measure of database/server load)
 
 ---

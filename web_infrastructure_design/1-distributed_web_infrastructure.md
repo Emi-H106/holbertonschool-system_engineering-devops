@@ -72,4 +72,4 @@ Each of the two servers contains:
 
 ## Diagram  
 
-![Distributed web infrastructure](https://github.com/Emi-H106/holbertonschool-system_engineering-devops/issues/2#issue-3448372644)
+![Distributed web infrastructure](./images/Distributed_web_infrastructure.png) 

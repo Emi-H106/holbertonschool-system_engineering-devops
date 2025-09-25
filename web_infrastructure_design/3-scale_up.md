@@ -40,5 +40,5 @@
 
 ## Diagram  
 
-![Scale up](https://github.com/Emi-H106/holbertonschool-system_engineering-devops/issues/4#issue-3449177536)
+![Scale up](./images/Scale up.png)
 

@@ -64,4 +64,4 @@ The infrastructure consists of **three servers** that host the website `www.foob
 
 ## Diagram  
 
-![Secured and Monitored Web Infrastructure](https://github.com/Emi-H106/holbertonschool-system_engineering-devops/issues/3#issue-3448376650)
+![Secured and Monitored Web Infrastructure](.images/Secured and monitored web infrastructure.png)

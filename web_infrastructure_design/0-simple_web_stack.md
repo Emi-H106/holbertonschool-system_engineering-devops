@@ -8,7 +8,7 @@ The purpose of this task is to understand how different components of a simple i
 ---
 
 ## Infrastructure Diagram
-![Simple web stack](https://github.com/Emi-H106/holbertonschool-system_engineering-devops/issues/1#issue-3445017405)
+![Simple web stack](.images/Simple_web_stack.png)
 
 ---
 

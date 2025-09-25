@@ -64,4 +64,4 @@ The infrastructure consists of **three servers** that host the website `www.foob
 
 ## Diagram  
 
-![Secured and Monitored Web Infrastructure](.images/Secured and monitored web infrastructure.png)
+![Secured and Monitored Web Infrastructure](./images/Secured and monitored web infrastructure.png)

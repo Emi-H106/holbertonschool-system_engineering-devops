@@ -40,5 +40,5 @@
 
 ## Diagram  
 
-![Scale up](./images/Scale up.png)
+![Scale up](./images/Scale_up.png)
 
